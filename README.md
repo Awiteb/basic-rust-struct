@@ -1,8 +1,10 @@
 ## basic-rust-struct
 
 <div dir="rtl">
-basic-rust-struct هو ستراكس بسيط تمت كتابنة لممارسة لغة Rust  يتواجد الستراكت في هذا الملف
-<br> <br> 
+ ستراكت بسيط تمت كتابنة لممارسة لغة Rust  يتواجد الستراكت في هذا 
+
+[الملف](https://github.com/Awiteb/basic-rust-struct/blob/master/src/main.rs)
+<br>
 
 المواضبع
 <div dir="ltr">
